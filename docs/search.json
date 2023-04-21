@@ -1,0 +1,359 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "analytical.html",
+    "href": "analytical.html",
+    "title": "Analytical facilities",
+    "section": "",
+    "text": "Volatile and semi-volatile analytes."
+  },
+  {
+    "objectID": "analytical.html#dad-semi-prep",
+    "href": "analytical.html#dad-semi-prep",
+    "title": "Analytical facilities",
+    "section": "DAD Semi prep",
+    "text": "DAD Semi prep\nFor.."
+  },
+  {
+    "objectID": "analytical.html#q-exactive-hf-with-vanquish-duo",
+    "href": "analytical.html#q-exactive-hf-with-vanquish-duo",
+    "title": "Analytical facilities",
+    "section": "Q Exactive HF with Vanquish Duo",
+    "text": "Q Exactive HF with Vanquish Duo"
+  },
+  {
+    "objectID": "coc.html",
+    "href": "coc.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "Disclaimer\nThis guide borrows heavily (as in copies) large parts from several Code of Conducts listed below. Certain parts have been modified to a large extent in order to make fit-for-purpose, others barely touched.\nList of guides we have copied… (cannot remember all anymore)\n\n\nIntroduction\nWe value the participation of every member of our community and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the Adsorptions group are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive. Please note that this code of conduct supplements, and does not trump, DHRTC and University level policies for your level of employment or study. This document serves as the primary source of information regarding the practicalities of being a member of the Adsorptions lab. The document refers to external documents and websites for more detailed descriptions of specific topics. It is therefore not exhaustive, but should point in the right direction where needed. We try to revise and update the document regularly, and all members are encouraged to provide input, concerns and suggestions.\n\n\nInclusion and diversity\nOur aim is to maintain an inclusive and diverse environment to support each individuals development and research, and to promote robust decision making and high-quality research. All group members must thus dedicate to a harassment-free experience for everyone, regardless of gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form.\nFurthermore, we expect all members to support each other in upholding the following principals: - All communication, be it online or in person, should be appropriate for a professional audience, and be considerate of people from different cultural backgrounds. - Be kind to others, and do not insult or put down other group members. By being supportive we will grow as a team and learn from each other. - Sexual, racist or derogatory/exclusionary language, imagery and jokes are not appropriate at any time. - Harassment includes offensive verbal comments related to gender identity, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.\nParticipants asked to stop any harassing behavior are expected to comply immediately. Violation of these rules will lead to a discussion with management. This is regardless of the offenders’ history at DTU, length of contribution, or how specialized their skill set may be. If inappropriate behavior persists, formal processes in line with DTU’s working environment policies will commence.\n\n\nMental health\nThere is increasing evidence that certain attributes of research may challenge your mental health. Specific factors driving this include: - Feelings of isolation in your research; e.g. each researcher focus on their specific topic and it can often feel as if you are working on your own. - Moving to another country, handling a new culture, and loneliness due to absence of friends and family. - Uncertainty in your research and in your career. - So-called “negative results”; i.e. at some point in your research, it is likely that certain questions will be more challenging to answer than anticipated, or that you will feel you have spent days/months/years toiling with little to show. - Burnout; i.e. feeling the need to work endless hours to make up for the above issues, and the subsequent exhaustion.\nAcademics at all levels come across most of these issues at some level. We strongly encourage everyone in the group to take an active and preemptive approach towards the maintenance of their mental health. Some risk factors may be reduced with appropriate measures, whilst others are more difficult to prevent. We encourage everyone to establish collaborations, ensuring a healthy work-life balance and sharing both successes and failures openly. Please remember that it is never wrong or shameful to reach out or ask for help. If there is anything that is placing undue stress or preventing you from performing at your potential, please do not hesitate in letting us know. We take all matters seriously and will support you fully if for example a reduced workload is required for a period of time. Furthermore, Corporate HR provides psychological counseling for all employees. (including Ph.D. students) This can be scheduled either as in-person meetings, by e-mail or telephone and you have the possibility of being anonymous. More information is available on Inside.\n\n\nWorking hours\nOur stance is that you can be a successful and productive researcher without excessive overtime. We believe that it is best to work effectively during a set period of time and restitute during evenings and weekends. However, we recognize that people have different routines, non-work-related and family responsibilities. Thus, the group operates under flexible working hours with freedom under responsibility. This means that you are free to set your own schedule to fit your daily routines. However, all group members are expected to be present at the center between 09 and 15 on weekdays (core hours). This is to facilitate collaboration and discussions with other staff members. Meetings will typically not be scheduled outside of those hours.\nExperimental work during late afternoons (after 19.00) or weekends is generally not allowed. Exceptions can be made when necessary. This is both for safety reasons and a measure to maintain a healthy work-life balance. Please try to plan your experiments to minimize such activities. If you have an important experiment that due to time or other constraints requires weekend attendance, you need approval from me and our lab manager. When working on weekends you must notify us when you enter and when you leave the laboratory.\n\n\nVacation\nAll employees are employed under a concurrent holiday scheme. This means that you earn 2.08 days per month (plus 0.42 special holidays) which you are free to use immediately or save up for a longer consecutive holiday. According to rules and regulations, all staff should have three consecutive weeks of vacation during a full working year. This is usually planned during the summer holidays. We recommend that this is followed, as DTU will be reasonably empty during a period of July and August. Beyond this, everyone are free to plan and schedule their vacation according to own preferences. But please let other group members know when taking time off.\n\n\nCommunication and meetings\nWe have three modes of communication 1) in-person 2) e-mail 3) Slack channel. You are free to choice the one you are most comfortable. E-mails outside working hours (Monday to Friday, 08.00 - 17.00) is discouraged with few exceptions (i.e. close to an important deadline, travelling etc). Members of the group are not expected to read or answer e-mails outside working hours. If writing e-mails at odd hours, it is recommended to schedule them to be sent during working hours using the ‘Delay Delivery’ function in Outlook."
+  },
+  {
+    "objectID": "dataplot.html",
+    "href": "dataplot.html",
+    "title": "Data plotting",
+    "section": "",
+    "text": "Must include code.\nPublication-ready figures One-column: Two-column: 600 DPI\nFor overlay, the color scheme is color blind friendly"
+  },
+  {
+    "objectID": "dataplot.html#ftir",
+    "href": "dataplot.html#ftir",
+    "title": "Data plotting",
+    "section": "FTIR’",
+    "text": "FTIR’\nHow to plot"
+  },
+  {
+    "objectID": "dataplot.html#uvvis",
+    "href": "dataplot.html#uvvis",
+    "title": "Data plotting",
+    "section": "UV/VIs",
+    "text": "UV/VIs\nHow to plot"
+  },
+  {
+    "objectID": "dataplot.html#qcm",
+    "href": "dataplot.html#qcm",
+    "title": "Data plotting",
+    "section": "QCM",
+    "text": "QCM\nExample Notebook Uses raw data exported from the openQCM NEXT instrument.\n\n\n\n\nQCM\n\n\nBaby"
+  },
+  {
+    "objectID": "facilities.html",
+    "href": "facilities.html",
+    "title": "Laboratories",
+    "section": "",
+    "text": "We house a small, but cosy, laboratory with capabilities for synthetic work."
+  },
+  {
+    "objectID": "facilities.html#facilities",
+    "href": "facilities.html#facilities",
+    "title": "Laboratories",
+    "section": "Facilities",
+    "text": "Facilities\nThe center houses several shared facilities which we use regularly.\n\nSchlenk lines\nAsynt pressuresyn\nPeristaltic and syringe pumpts with automation capabilities\nBress WHAT for optical imaging of solids and films\n\n\nMass spectrometry\n\n\n\nGCxGC-MS\nTwo systems\n\n\n\n\n\n\n\nLC-HRMS\n\n\n\nSpectroscopy\n\n\n\nBruker Alpha FTIR\nUsed for routine spectroscopy, primarily of solids (i.e. MOFs, precursors and reagents). Useful for ID verification, coordination modes and presence of functional groups.\n\n\niCAP\nhehe\n\n\n\n\nAFM-IR\n\n\niCAP\nThis instrument is primarily used to verify and quantify metal-content of metal-organic frameworks via acid digestion.\n\n\n\nMiscellaneous\n\nOpenQCM Next\n\n\n\n\n\n\nAn open-source quartz crystal microbalance (QCM) instrument used for characterization of adsorption/desorption in thin-films and drop-cast materials. Capable of dissipation monitoring to evaluate stiffness."
+  },
+  {
+    "objectID": "gfx.html",
+    "href": "gfx.html",
+    "title": "Molecular visualization",
+    "section": "",
+    "text": "Introduction"
+  },
+  {
+    "objectID": "gfx.html#color-coding",
+    "href": "gfx.html#color-coding",
+    "title": "Molecular visualization",
+    "section": "Color coding",
+    "text": "Color coding\nCarbon: Hydrogen: Oxygen: Nitrogen:\nRemember, figures should be visually pleasing, but not at the cost of scientific integrity/information."
+  },
+  {
+    "objectID": "gfx.html#chemdraw",
+    "href": "gfx.html#chemdraw",
+    "title": "Molecular visualization",
+    "section": "ChemDraw",
+    "text": "ChemDraw\nsdsds"
+  },
+  {
+    "objectID": "gfx.html#mercury",
+    "href": "gfx.html#mercury",
+    "title": "Molecular visualization",
+    "section": "Mercury",
+    "text": "Mercury\nThe default settings of Mercury does not produce very visually pleasing images. The first step is to change to white background, by\nIf you want to display metal centers /\nHow to plot"
+  },
+  {
+    "objectID": "gfx.html#iraspa",
+    "href": "gfx.html#iraspa",
+    "title": "Molecular visualization",
+    "section": "iRASPA",
+    "text": "iRASPA\nHow to plot"
+  },
+  {
+    "objectID": "group.html",
+    "href": "group.html",
+    "title": "Group members",
+    "section": "",
+    "text": "Principal investigator, group leader & lab nuissance\nPhD in inorganic chemistry (supervised by Christine McKenzie) at the University of Southern Denmark, 2013. Researcher Has too many ideas, and not always good ones. But you only have to win the lottery once to get rich! Pretty much winging it, but having fun while doing!\n\n\n\nPh.D. student (2021-07-01 to)\n\n\n\nPh.D. student (2022-03-01 to) German guy\n\n\n\nGuest Ph.D. (2023-01-15 to) Italian guy"
+  },
+  {
+    "objectID": "group.html#past-members",
+    "href": "group.html#past-members",
+    "title": "Group members",
+    "section": "Past members",
+    "text": "Past members\n\n\n\nAnh Khoa\nPh.D. student (2020-07 to 2023-01, co-supervised with Simon I. Andersen) Currently postdoc at University of Umeå (as of April 2023)"
+  },
+  {
+    "objectID": "hitchhikers.html",
+    "href": "hitchhikers.html",
+    "title": "Hitchhikers guide to SFM",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to the Sensors & Functional Materials website. The website is primarily intended for internal use. A place where we store relevant information and details for current and future group members. However, we believe that some of it may be of general interest. Therefore, everything is published openly.\nWe are a small sub-group working at DTU Offshore, The Technical University of Denmark. Our primary focus is the development and application of porous materials to solve real-life problems related to the offshore and energy transition industry (e.g., sensing, separations, activation). We are also passionate about using mass spectrometry to probe complex systems and understand chemical processes. Our research is mission driven, meaning that it lies on the interface between fundamental and applied science. You can read more about this and ongoing project on the ‘Research Vision’ page.\n\nCollaborations?\nIf you found your way here, and believe that what we’re working on sounds interesting, please don’t hesitate in sending us an e-mail. We’re always happy to collaborate. We’re also open for B.Sc. and M.Sc. thesis projects. If you’re a student at DTU we are also happy to develop and teach special courses (credit awarding) tailored to your interest.\n\nPotential thesis topics\n\nSensor development for in-situ environmental monitoring (e.g., persistent organic pollutants, marine nutrients)\nOxygen chemisorption for industrial processes (e.g., oxyfuel combustion, deoxygenation of process fluids)\nAdvanced chromatography and mass spectrometry (e.g., non-target screening and quantification of pollutants, process analytics)\n\nPlease note: Any Ph.D. or PD positions will be posted on the DTU website. We can not accept applications via e-mail. If you are interest in co-writing a grant application, we are open for discussion.\n\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\nGoing to MOF22\n\n\n\n\n\nCould we just have small news like this. How does it wrap. We could even have images, I guess. But this would make it look. Hmm. I don’t know. Otherwise people have to click on the link which is a bit…. Does it work to have it like this?\n\n\n\n\n\n\nSep 1, 2022\n\n\nJonas Sundberg\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "journals.html",
+    "href": "journals.html",
+    "title": "Journals",
+    "section": "",
+    "text": "List of journals to frequently read."
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Laboratories",
+    "section": "",
+    "text": "We house a small, but cosy, laboratory with capabilities for synthetic and characterization work. Furthermore, we have access to shared departmental facilities and also rely on a little help from our friends and collaborators. Furthermore, we work heavily with mass spectrometry. For more detailed description of our capabilities here, see the ‘Analytical facilities’ page."
+  },
+  {
+    "objectID": "labs.html#synthesis",
+    "href": "labs.html#synthesis",
+    "title": "Laboratories",
+    "section": "Synthesis",
+    "text": "Synthesis\nWe have multiple fume hoods and equipment for:\n\nAir-sensitive manipulations using Schlenk lines\nHigh-pressure solvothermal synthesis using Asynt Pressuresyn and thick-wall glass reactors\nFluidics based on multiple programmable syringe and peristaltic pumps. This is primarily used for sensing applications, thin-film growth, and process automation."
+  },
+  {
+    "objectID": "labs.html#fiber-optics-lab",
+    "href": "labs.html#fiber-optics-lab",
+    "title": "Laboratories",
+    "section": "Fiber optics lab",
+    "text": "Fiber optics lab\n….. Fiber optic characterization and sensing.\nMass flow controllers"
+  },
+  {
+    "objectID": "labs.html#spectroscopy",
+    "href": "labs.html#spectroscopy",
+    "title": "Laboratories",
+    "section": "Spectroscopy",
+    "text": "Spectroscopy\n\nBruker Anasys nanoIR 3\nDescription?\nFluidics cell for measurement of surfaces in contact with liquids (AFM mode only).\n\n\n\n\nBruker Alpha II FT-IR\nUsed for routine spectroscopy, primarily of solids (i.e. MOFs, precursors and reagents). Useful for ID verification, coordination modes and presence of functional groups.\n\n\nThermo Scientific iCAP 7000 ICP-OES\nThis instrument is primarily used to verify and quantify metal-content of metal-organic frameworks via acid digestion."
+  },
+  {
+    "objectID": "labs.html#miscellaneous",
+    "href": "labs.html#miscellaneous",
+    "title": "Laboratories",
+    "section": "Miscellaneous",
+    "text": "Miscellaneous\n\nQuartz crystal microbalance\n\n\n\n\n\n\nAn open-source quartz crystal microbalance (QCM) instrument used for characterization of adsorption/desorption in thin-films and drop-cast materials. Capable of dissipation monitoring to evaluate stiffness.\n\n\n\n\n\nScanning electron microscopy"
+  },
+  {
+    "objectID": "library.html",
+    "href": "library.html",
+    "title": "Library",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "mspec.html",
+    "href": "mspec.html",
+    "title": "Mass spectrometry",
+    "section": "",
+    "text": "We house a small, but cosy, laboratory with capabilities for synthetic work."
+  },
+  {
+    "objectID": "mspec.html#facilities",
+    "href": "mspec.html#facilities",
+    "title": "Mass spectrometry",
+    "section": "Facilities",
+    "text": "Facilities\nThe center houses several shared facilities which we use regularly.\n\nSchlenk lines\nAsynt pressuresyn\nPeristaltic and syringe pumpts with automation capabilities\nBress WHAT for optical imaging of solids and films\n\n\nMass spectrometry\n\n\n\nGCxGC-MS\nTwo systems\n\n\n\n\n\n\n\nLC-HRMS\n\n\n\nSpectroscopy\n\n\n\nBruker Alpha FTIR\nUsed for routine spectroscopy, primarily of solids (i.e. MOFs, precursors and reagents). Useful for ID verification, coordination modes and presence of functional groups.\n\n\niCAP\nhehe\n\n\n\n\nAFM-IR\n\n\niCAP\nThis instrument is primarily used to verify and quantify metal-content of metal-organic frameworks via acid digestion.\n\n\n\nMiscellaneous\n\nOpenQCM Next\n\n\n\n\n\n\nAn open-source quartz crystal microbalance (QCM) instrument used for characterization of adsorption/desorption in thin-films and drop-cast materials. Capable of dissipation monitoring to evaluate stiffness."
+  },
+  {
+    "objectID": "openaccess.html",
+    "href": "openaccess.html",
+    "title": "Open access options",
+    "section": "",
+    "text": "This is a list of gold/diamond open access options with no to reasonable article processing charge (APC). We try to keep it updated. Note: MDPI titles are not included as we believe that they are a predatory publisher.\nFor additional titles, please refer to the Directory of Open Access Journals (DOAJ)"
+  },
+  {
+    "objectID": "openaccess.html#impact-neutral",
+    "href": "openaccess.html#impact-neutral",
+    "title": "Open access options",
+    "section": "Impact neutral",
+    "text": "Impact neutral\n\n\n\nGeneral\n\nRoyal Society Open Science ($1680, DTU pays APC)\nACS Omega ($1250)\nScientific Reports ($1995)\nResults in Chemistry ($1000, Elsevier)\nPLoS ONE ($1695)\n\n\n\nAnalytical chemistry\n\nPeerJ Analytical Chemistry ($1195)\n\n\n\n\n\nInorganic/materials chemistry\n\nPeerJ Inorganic Chemistry ($1195)\nPeerJ Materials Science ($1195)"
+  },
+  {
+    "objectID": "openaccess.html#percieved-impact",
+    "href": "openaccess.html#percieved-impact",
+    "title": "Open access options",
+    "section": "Percieved impact",
+    "text": "Percieved impact\n\n\n\nGeneral\n\nChemical Science\n\n\n\nInorganic/materials chemistry\n\nBeilstein Journal of Nanotechnology ($0)\n\n\n\n\n\nAnalytical chemistry\n\nOne\n\n\n\nSensors\n\nECS Sensors Plus ($1350)\nRSC Sensors & Diagnostics ($0 as of now)\nAMA Journal of Sensors and Sensor Systems (€65 per page)"
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "README.md",
+    "section": "",
+    "text": "The Scrypt is a place where we upload small code snippets and scripts which are useful for dataprocessing and plotting. We are not programmers, so these are more…."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research vision",
+    "section": "",
+    "text": "Our research program combines coordination and analytical chemistry, focusing primarily on, but not limited to, nanoporous materials for liquid-phase sorption processes. This includes sensor chemistry, functional materials for analytical applications, and separation science. More specifically, we work with the design and application of metal-organic frameworks. Metal-organic frameworks (MOFs) are hybrid materials that form via the self-assembly of inorganic nodes with organic linker molecules. This yields highly ordered network solids that extend in up to three dimensions. Metal-organic frameworks are characterized by their high porosity, contact area, and modularity. By understanding structure-property relationships, we can tailor materials for specific applications, for example, sensing by analyte enrichment and background exclusion. We apply a variety of gravimetric and spectroscopic techniques to probe these interactions.\nFurthermore, the group is interested in advanced multi-dimensional chromatography combined with high-resolution mass spectrometry to probe complex systems, e.g., environmental and process analytical technology. Here, a fundamental interest is the development of reactors and microfluidic devices that allow in-situ monitoring with a high level of automation."
+  },
+  {
+    "objectID": "research.html#major-projects",
+    "href": "research.html#major-projects",
+    "title": "Research vision",
+    "section": "Major projects",
+    "text": "Major projects\n\nMetal-organic frameworks for environmental sensing\nInsert brief description. Abandonded wells, ensure seal integrity and. Furthermore, the sensors will provide data on marine carbon cycling and the global carbon budget which is fundamentalt o increase our understanding of global warming. Using quartz crystal microbalance (QCM)\n\n\nMetal-organic frameworks for selective oxygen chemisorption\nInsert short description, maybe even a The combine Deoxygenation of process waters to reduce corrosion, Furthermore, the line-of-sight is Alternative to energy-intensive cryogenic distillation, for medical applications, oxyfuel combustion etc.\n\n\nNOPE\nSurface-enhanced Raman….\n\n\nProject Bifrost\nWe are involved in the work package on monitoring technologies. Here, our objective is to develop chemical sensors based on functionalized fiber optics. Seabed and shallow subsurface monitoring of offshore carbon storage sites. Multi-parameter sensor networks based on functionalized fiber Bragg gratings."
+  },
+  {
+    "objectID": "research.html#minor-projects",
+    "href": "research.html#minor-projects",
+    "title": "Research vision",
+    "section": "Minor projects",
+    "text": "Minor projects\n\nSmart sensors for in-situ groundwater monitoring\nProof-of-concept project run together with TotalEnergies, Smart Monitoring & Nanotechnology, France. Using QCM to measure BTEX in groundwater monitoring wells.\n\n\nMetal-alkoxide functionalized MOFs for H2 storage at\nProof-of-concept. Collaboration with XXX and Lludovici Linzi (guest PhD) from University of Padua. A key challenge is the presence of additional coordinating groups which complicate the MOF formation/self-assembly. Therefore, an integral part of the project is the development of protection/deprotection strategies. Furthermore, a small lab-scale adsorption unit based on QCM will be constructed. The setup will allow to measure the uptake at ambient up to 5 bar pressure."
+  },
+  {
+    "objectID": "roles.html",
+    "href": "roles.html",
+    "title": "Roles and expectations",
+    "section": "",
+    "text": "Research is to a large extent an adventure in trial and error and failed experiments. There is no manual available and I will not have the answer to every question you ask. My job as a supervisor is to provide the support required for you to carry out this task to the best extent possible. This means that I will provide scientific support, access to infrastructure and the means necessary to run and interpret experiments. I set high expectations and goals with work-life balance in mind. This means that I expect you to work hard and efficient within a 40-hour week.\nMy advice may be general, or specific. However, if I ask you to perform a specific task, it means that you should carry it out as soon as possible. If you disagree, convince me otherwise. I might very well be wrong (happens a lot). Ultimately, you were employed to carry out a specific research project. No matter if you are a Ph.D. student or postdoc, this is a job. You that have the main responsibility for the success of this project. I’m just the support staff."
+  },
+  {
+    "objectID": "roles.html#standup",
+    "href": "roles.html#standup",
+    "title": "Roles and expectations",
+    "section": "Standup",
+    "text": "Standup\nEvery Monday at 09.00 we have a joint standup meeting. Here, we take turns to share planned activities for the coming week in an informal manner."
+  },
+  {
+    "objectID": "roles.html#supervisor-meetings",
+    "href": "roles.html#supervisor-meetings",
+    "title": "Roles and expectations",
+    "section": "Supervisor meetings",
+    "text": "Supervisor meetings\nWe have scheduled group meetings on Thursdays at 13.00 every week. Each member is required to prepare a brief presentation of the current status, results and activities since last meeting. We will use this format to identify challenges, potential for collaborations and plan the experimental work efficiently."
+  },
+  {
+    "objectID": "roles.html#group-meetings",
+    "href": "roles.html#group-meetings",
+    "title": "Roles and expectations",
+    "section": "Group meetings",
+    "text": "Group meetings\nWe have joint meetings with the extended Experimentalists team which includes all researchers working in the lab facilities at DTU Offshore. These meetings are currently scheduled every second week on Thursdays at 10.00. Meetings include news and updates from our department head, scientific presentation and discussions of relevant happenings or issues. The aim of the meetings is to get academic and scientific support, identify potential overlaps between projects and individual members’ research interests. Ultimately, these meetings are a good opportunity to garnish collaborations and help each other to become better scientists."
+  },
+  {
+    "objectID": "roles.html#be-present-and-communicate",
+    "href": "roles.html#be-present-and-communicate",
+    "title": "Roles and expectations",
+    "section": "Be present and communicate",
+    "text": "Be present and communicate\n\nAll group and subgroup meetings (including stand-up) are mandatory. Be on time.\n\nAlthough working hours are flexible it is expected that you are present at DTU between 09 and 15 (unless having other obligations). This is to facilitate interaction and collaborations with other team members.\nDeadlines are hard and I expect that you respect them. Delivering on time is important to maintain progress and ensure enough time for review, commenting and approval of drafts. If you cannot meet a deadline, communicate this as early as possible and we’ll adjust accordingly.\nWe are an experimental group. This means that the most of your time (>80%) should be spent in the laboratory setting up, running and characterizing experiments.\n\nIf I am not aware of an issue, I cannot help. Please seek me out as soon as possible, both for technical and other help."
+  },
+  {
+    "objectID": "roles.html#take-ownership",
+    "href": "roles.html#take-ownership",
+    "title": "Roles and expectations",
+    "section": "Take ownership",
+    "text": "Take ownership\n\nI expect all members to take ownership of their project. You are the main driver for success, and your career future depends on it.\n\nThis means taking the responsibility to keep the project organized, making continuous progress, and finished as in running the necessary experiments, drafting manuscripts, reports and thesis (for Ph.D. students) in time."
+  },
+  {
+    "objectID": "roles.html#be-prepared",
+    "href": "roles.html#be-prepared",
+    "title": "Roles and expectations",
+    "section": "Be prepared",
+    "text": "Be prepared\n\nAlways come prepared. This is especially important for project and group meetings.\n\nWhen discussing progress and challenges, you are expected to have prepared a presentation with detailed slides on results, data and figures.\n\nPlease remember that I juggle several tasks and projects. Therefore, I cannot remember everything. Although it is my obligation to also come prepared, I might ask questions that for you are clear but not for me.\n\nAlways consider your audience when preparing for meetings. A technical meeting with your supervisors is different than a project progress meeting with management."
+  },
+  {
+    "objectID": "roles.html#document-everything",
+    "href": "roles.html#document-everything",
+    "title": "Roles and expectations",
+    "section": "Document everything",
+    "text": "Document everything\n\nAll laboratory notes must be documented in Labguru immediately. Using pen and paper is not allowed.\n\nEach experiment must have a unique identifier. The unique identifier must follow all associated items (i.e. ELN, raw data files, result files).\n\nNotebooks must be include documentation to the extent that it allows other researchers with similar training to repeat the experiment.\n\nSmall data files should (in addition to storage on the file server) be attached to the corresponding experiment. Larger files (> 100 mb) should only be stored on the file server (with a location reference included in the ELN entry)\nCarry out regular backup of all written documents, data and similar. This is preferably done on your personal M-drive (NOT on the local drive of your laptop). Research data should be stored on the group network folder. (see the Research Data Management section)"
+  },
+  {
+    "objectID": "roles.html#stay-updated-with-the-literature",
+    "href": "roles.html#stay-updated-with-the-literature",
+    "title": "Roles and expectations",
+    "section": "Stay updated with the literature",
+    "text": "Stay updated with the literature\n\nPlease keep updated with the relevant literature. Reading is an important part of science, and I recommend reading at least one paper daily.\nThis is important both to gain inspiration but also keep track of what already has been done. Do not reinvent the wheel."
+  },
+  {
+    "objectID": "roles.html#be-your-advocate",
+    "href": "roles.html#be-your-advocate",
+    "title": "Roles and expectations",
+    "section": "Be your advocate",
+    "text": "Be your advocate\n\nI will support you in meetings, during presentations, in the lab and defenses.\n\nThis also means that I will do my best to support your career decisions, whether it be a future in academia or industry."
+  },
+  {
+    "objectID": "roles.html#be-available",
+    "href": "roles.html#be-available",
+    "title": "Roles and expectations",
+    "section": "Be available",
+    "text": "Be available\n\nI am available on a daily basis and have an open door policy. You are always welcome to come by, or send an e-mail. Do not hesitate in contacting me no matter how big or small the matter.\n\nOn occasion where I am out of office, it is always marked in my Outlook calendar. Please add it to your computer to keep track of my whereabouts."
+  },
+  {
+    "objectID": "roles.html#provide-research-and-project-support",
+    "href": "roles.html#provide-research-and-project-support",
+    "title": "Roles and expectations",
+    "section": "Provide research and project support",
+    "text": "Provide research and project support\n\nIt is my job to support you in the development of your research project, both in terms of soft and hard skills.\n\nThis includes providing direction on where to get additional help when needed."
+  },
+  {
+    "objectID": "roles.html#assist-with-writingediting-papers-posters",
+    "href": "roles.html#assist-with-writingediting-papers-posters",
+    "title": "Roles and expectations",
+    "section": "Assist with writing/editing papers, posters",
+    "text": "Assist with writing/editing papers, posters\n\nAs a principle, the first paper as a Ph.D. student will typically be drafted together.\n\nFor second publications and postdocs, the first draft is your responsibility. However, this does not mean that I will not provide support.\n\nIn order for me to do this thoroughly I should have drafts in good time before the submission deadline. This typically means at least two weeks in advance.\n\nRemember that proofs with a large number of corrections and comments should not be taken as a critique, but as an indication that I take this job seriously and am here to help you develop."
+  },
+  {
+    "objectID": "roles.html#expand-your-network",
+    "href": "roles.html#expand-your-network",
+    "title": "Roles and expectations",
+    "section": "Expand your network",
+    "text": "Expand your network\n\nA large part of the responsibility as a researcher is to build a network. This can be daunting and a difficult task. It is my responsibility to aid you in this task, both by providing access to my network but also to help you identify potential new collaborators.\n\nSeveral parts of your project may require facilities and expertise not available in-house. It is my job to direct you where to get the help required to carry out all relevant work."
+  },
+  {
+    "objectID": "roles.html#provide-funding-and-help-with-budgets",
+    "href": "roles.html#provide-funding-and-help-with-budgets",
+    "title": "Roles and expectations",
+    "section": "Provide funding and help with budgets",
+    "text": "Provide funding and help with budgets\n\nYou should never worry about the costs of running your project. This is my responsibility.\nIf additional funds are required, e.g. for purchase of medium-sized equipment, I will make sure that this is made available.\n\nThere are several possibilities to apply for internal/external funding (both for Ph.D. students and postdocs) during your stay at DTU. I am here to help you find the relevant opportunities as well as writing grant applications."
+  }
+]
